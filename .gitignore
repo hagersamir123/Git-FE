@@ -1,0 +1,4 @@
+hello.txt
+*.png
+!social.png
+*.jpg
